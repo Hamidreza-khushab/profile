@@ -8,7 +8,7 @@
 .btn-secondary:hover,
 .btn-secondary:focus {
   color: #443;
-  text-shadow: none; /* Prevent inheritance from `body` */
+  text-shadow: hotpink; /* Prevent inheritance from `body` */
 }
 
 
